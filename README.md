@@ -4,13 +4,13 @@ The 2-Factor Authentication System is a robust and highly secure solution for pr
 
 ## Índice
 
-- [Installation](#instalação)
-- [Usage](#uso)
-- [Contribution](#contribuição)
-- [License](#licença)
-- [Contact](#contato)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+- [Contact](#contact)
 
-## Installation (#instalação)
+## Installation
 
 - Clone the repository: `git clone https://github.com/JoaoVitorChaves-05/auth_2_steps.git`
 - Select the project folder: `cd auth_2_steps`
