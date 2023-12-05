@@ -4,11 +4,11 @@ The 2-Factor Authentication System is a robust and highly secure solution for pr
 
 ## Índice
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [Installation](#instalação)
+- [Usage](#uso)
+- [Contribution](#contribuição)
+- [License](#licença)
+- [Contact](#contato)
 
 ## Installation
 
